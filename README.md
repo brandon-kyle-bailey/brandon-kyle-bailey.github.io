@@ -1,68 +1,51 @@
-# Brandon Bailey
+# Hi there! 👋
 
-Senior Software Engineer focused on building reliable, scalable systems across backend, infrastructure, and full-stack environments.
+I'm **Brandon**, a **Senior Software Engineer** at **Newton**, building distributed systems and backend infrastructure for one of Canada's leading regulated digital asset trading platforms.
 
----
-
-## Overview
-
-I design and operate production systems that handle real-world constraints—scale, latency, failure, and long-term maintainability.
-
-My work sits at the intersection of backend architecture, cloud infrastructure, and product engineering. The emphasis is on systems that remain understandable and operable as they grow.
+Over the past 8+ years I've built software across visual effects, SaaS, and fintech. I've worked on production pipeline systems at **Industrial Light & Magic (The Walt Disney Company)** and **Framestore**, multi-tenant SaaS platforms at **ScalePad**, and now trading infrastructure at Newton. Each role has reinforced the same principles: build reliable systems, automate repetitive work, and keep complexity under control.
 
 ---
 
-## Current Role
+## 🚀 What I work on
 
-### Senior Software Engineer — [Newton.co](https://newton.co)
+I enjoy building software that solves practical problems and continues to scale as products and teams grow.
 
-- Design and maintain cloud-native backend systems in production
-- Build APIs that remain stable under evolving requirements and load
-- Work across infrastructure, services, and frontend to deliver complete features
-- Address failure modes, performance constraints, and system boundaries early
+These days my work focuses on:
 
----
-
-## Core Areas
-
-- Backend architecture and service design
+- Distributed backend systems
+- Platform engineering
 - Cloud infrastructure (AWS)
-- Full-stack applications (Next.js, Node.js, NestJS)
-- System design and scalability
-- Developer tooling and workflow optimization
+- APIs and microservices
+- Data platforms and PostgreSQL
+- Full-stack applications with Next.js, NestJS, and TypeScript
+
+Most of my time is spent designing production systems that are reliable, observable, and easy for other engineers to work with.
 
 ---
 
-## Engineering Approach
+## A little about me
 
-- Prioritize clarity and explicitness in system design
-- Limit unnecessary abstraction and hidden complexity
-- Design for failure, observability, and long-term operation
-- Treat infrastructure, application code, and workflows as a single system
+Over the past 8+ years I've worked across fintech, SaaS, and visual effects, building everything from trading infrastructure and regulatory reporting systems to data platforms and studio production tooling.
+
+I enjoy learning new technologies, improving developer workflows, and finding simpler solutions to complex engineering problems.
 
 ---
 
-## Work
+## Featured repositories
 
-Pinned repositories reflect practical engineering work, including:
+My pinned repositories are a mix of:
 
-- API architecture and service patterns
-- Distributed system components and primitives
+- Backend services
+- Distributed systems
 - Full-stack applications
-- Tooling and automation for development and operations
+- Infrastructure and automation
+- Developer tooling
+- Personal projects where I experiment with new ideas
 
 ---
 
-## Background
+## Connect
 
-Early experience in VFX pipeline systems, working on structured workflows for complex production environments. This background informs a focus on determinism, reliability, and disciplined system design.
-
----
-
-## Links
-
-- GitHub: [https://github.com/brandon-kyle-bailey](https://github.com/brandon-kyle-bailey)
-- LinkedIn: [https://linkedin.com/in/brandon-kyle-bailey](https://linkedin.com/in/brandon-kyle-bailey)
-
----
-
+- GitHub: https://github.com/brandon-kyle-bailey
+- LinkedIn: https://linkedin.com/in/brandon-kyle-bailey
+- X: https://twitter.com/brandonkpbailey
