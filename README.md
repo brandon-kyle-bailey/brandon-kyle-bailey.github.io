@@ -14,14 +14,14 @@ Over 9+ years, I've worked across **fintech, SaaS and visual effects**, building
 
 ## 🛠️ My toolbox
 
-| Area | Technologies |
-|---|---|
-| **💻 Languages** | Go · Python · TypeScript · SQL |
-| **⚙️ Backend** | Django · Node.js · NestJS · Distributed systems |
+| Area                  | Technologies                                                   |
+| --------------------- | -------------------------------------------------------------- |
+| **💻 Languages**      | Go · Python · TypeScript · SQL                                 |
+| **⚙️ Backend**        | Django · Node.js · NestJS · Distributed systems                |
 | **☁️ Infrastructure** | AWS · Terraform · CDK · Pulumi · Cloudflare · DataDog · Sentry |
-| **🗄️ Data** | PostgreSQL · Redis · Snowflake · Event-driven architectures |
-| **🤖 AI engineering** | LLM integrations · Agents · Gateways · Guardrails |
-| **🖥️ Applications** | React · Next.js · React Native · Electron.js |
+| **🗄️ Data**           | PostgreSQL · Redis · Snowflake · Event-driven architectures    |
+| **🤖 AI engineering** | LLM integrations · Agents · Gateways · Guardrails              |
+| **🖥️ Applications**   | React · Next.js · React Native · Electron.js                   |
 
 ## 🔬 Some things I've built
 
@@ -51,4 +51,4 @@ Usually exploring something new, taking things apart to understand how they work
 
 ## 🌍 Find me elsewhere
 
-[LinkedIn](https://linkedin.com/in/brandon-kyle-bailey) · [X](https://x.com/brandonkpbailey)
+[LinkedIn](https://linkedin.com/in/brandon-kyle-bailey) · [X](https://x.com/brandonkpbailey) · [Substack](https://brandonkpbailey.substack.com)
