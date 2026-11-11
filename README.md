@@ -1,51 +1,54 @@
-# Hi there! 👋
+# Brandon Bailey
 
-I'm **Brandon**, a **Senior Software Engineer** at **Newton**, building distributed systems and backend infrastructure for one of Canada's leading regulated digital asset trading platforms.
+### 👨‍💻 Senior Software Engineer · Backend & Distributed Systems · Platform Engineering
 
-Over the past 8+ years I've built software across visual effects, SaaS, and fintech. I've worked on production pipeline systems at **Industrial Light & Magic (The Walt Disney Company)** and **Framestore**, multi-tenant SaaS platforms at **ScalePad**, and now trading infrastructure at Newton. Each role has reinforced the same principles: build reliable systems, automate repetitive work, and keep complexity under control.
+I'm curious by nature and enjoy exploring how things work, experimenting with new technologies, and turning ideas into working software. There's always something new to learn, build or take apart.
 
----
+Over 9+ years, I've worked across **fintech, SaaS and visual effects**, building everything from production pipeline tools to distributed systems handling millions of events.
 
-## 🚀 What I work on
-
-I enjoy building software that solves practical problems and continues to scale as products and teams grow.
-
-These days my work focuses on:
-
-- Distributed backend systems
-- Platform engineering
-- Cloud infrastructure (AWS)
-- APIs and microservices
-- Data platforms and PostgreSQL
-- Full-stack applications with Next.js, NestJS, and TypeScript
-
-Most of my time is spent designing production systems that are reliable, observable, and easy for other engineers to work with.
+- 💹 **Newton** — Engineering trading infrastructure for a regulated digital asset platform.
+- 🚀 **Produce8** — Founding engineer at a SaaS startup, acquired by ScalePad.
+- 🎬 **Industrial Light & Magic / Framestore** — Building pipeline tools and production systems for visual effects.
 
 ---
 
-## A little about me
+## 🛠️ My toolbox
 
-Over the past 8+ years I've worked across fintech, SaaS, and visual effects, building everything from trading infrastructure and regulatory reporting systems to data platforms and studio production tooling.
+| Area | Technologies |
+|---|---|
+| **💻 Languages** | Go · Python · TypeScript · SQL |
+| **⚙️ Backend** | Django · Node.js · NestJS · Distributed systems |
+| **☁️ Infrastructure** | AWS · Terraform · CDK · Pulumi · Cloudflare · DataDog · Sentry |
+| **🗄️ Data** | PostgreSQL · Redis · Snowflake · Event-driven architectures |
+| **🤖 AI engineering** | LLM integrations · Agents · Gateways · Guardrails |
+| **🖥️ Applications** | React · Next.js · React Native · Electron.js |
 
-I enjoy learning new technologies, improving developer workflows, and finding simpler solutions to complex engineering problems.
+## 🔬 Some things I've built
+
+I like problems where the engineering decisions actually matter.
+
+- ⚡ **Trading systems** — Led the rebuild of a JavaScript trade engine in Go, improving maintainability and enabling new liquidity provider integrations.
+- 📈 **Database infrastructure** — Redesigned PostgreSQL partitioning strategies for databases holding over **1 billion rows**.
+- 📊 **Analytics platforms** — Built data infrastructure processing **10M+ events per day**.
+- 🌐 **Distributed software** — Developed a desktop agent deployed across **10,000+ endpoints**, processing **50M+ application events per day**.
+- 🏦 **Financial reporting** — Built regulatory reporting systems serving **700,000+ users**, reducing computation time by **95%**.
+- 🎥 **Production tooling** — Developed pipeline tools and automation for visual effects production.
+
+## 🧩 How I like to engineer
+
+- **Understand the problem first.** The clever solution isn't worth much if it solves the wrong problem.
+- **Prefer boring, reliable foundations.** Complexity should earn its place.
+- **Measure, don't guess.** Especially when performance and reliability are involved.
+- **Build for the next engineer.** Maintainability is a feature, not an afterthought.
+
+## 🧠 Things I'm curious about
+
+`Distributed Systems` · `Systems Programming` · `Cloud Infrastructure` · `AI Engineering` · `Developer Tooling`
+
+Usually exploring something new, taking things apart to understand how they work, or building something that probably already exists but I wanted to understand how to make it myself.
 
 ---
 
-## Featured repositories
+## 🌍 Find me elsewhere
 
-My pinned repositories are a mix of:
-
-- Backend services
-- Distributed systems
-- Full-stack applications
-- Infrastructure and automation
-- Developer tooling
-- Personal projects where I experiment with new ideas
-
----
-
-## Connect
-
-- GitHub: https://github.com/brandon-kyle-bailey
-- LinkedIn: https://linkedin.com/in/brandon-kyle-bailey
-- X: https://twitter.com/brandonkpbailey
+[LinkedIn](https://linkedin.com/in/brandon-kyle-bailey) · [X](https://twitter.com/brandonkpbailey)
