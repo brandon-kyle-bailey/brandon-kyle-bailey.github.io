@@ -31,7 +31,7 @@ I like problems where the engineering decisions actually matter.
 - 📈 **Database infrastructure** — Redesigned PostgreSQL partitioning strategies for databases holding over **1 billion rows**.
 - 📊 **Analytics platforms** — Built data infrastructure processing **10M+ events per day**.
 - 🌐 **Distributed software** — Developed a desktop agent deployed across **10,000+ endpoints**, processing **50M+ application events per day**.
-- 🏦 **Financial reporting** — Built regulatory reporting systems serving **700,000+ users**, reducing computation time by **95%**.
+- 🏦 **Financial reporting** — Built regulatory reporting systems serving approx. **1M+ users**, reducing computation time by **95%**.
 - 🎥 **Production tooling** — Developed pipeline tools and automation for visual effects production.
 
 ## 🧩 How I like to engineer
@@ -51,4 +51,4 @@ Usually exploring something new, taking things apart to understand how they work
 
 ## 🌍 Find me elsewhere
 
-[LinkedIn](https://linkedin.com/in/brandon-kyle-bailey) · [X](https://twitter.com/brandonkpbailey)
+[LinkedIn](https://linkedin.com/in/brandon-kyle-bailey) · [X](https://x.com/brandonkpbailey)
